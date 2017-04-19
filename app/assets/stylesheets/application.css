@@ -1,4 +1,11 @@
 .header-photo {
+	padding-top: 30px;
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.logo-photo {
 	padding-top: 100px;
     display: block;
     margin: auto;
